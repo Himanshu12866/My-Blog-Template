@@ -87,4 +87,6 @@ footer div a{
 }
 footer div a:hover{
     text-decoration: underline;
+    color:black;
+    font-weight: bold;
 }
